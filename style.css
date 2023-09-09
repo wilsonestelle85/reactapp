@@ -1,0 +1,22 @@
+.summerStyle{
+    background-color: lightgreen;
+    color:lightcoral;
+    border:2px solid palevioletred;
+    width:24%;
+    float:left;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    padding: 3%;
+    border-radius: 10px;
+    text-align: center;
+
+    height:500px;
+   
+}
+
+
+.imgStyle{
+    border:4px solid palevioletred;
+    padding: 3px;
+    border-radius: 4px;
+}
